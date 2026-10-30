@@ -1,36 +1,30 @@
 import java.util.Scanner;
-  public class parkingSlots{
-    public static void mina(String[] args){
+  public class ParkingSlots{
+    public static void main(String[] args){
       Scanner input = new Scanner(System.in);
        
         int [][] parkingSlots = new int[1][20];
         
         
         string parking slot """ 
-===================== MINI PARKIHG SYSTEM ==========================
+===================== MINI PARKING SYSTEM ==========================
             
-1:  Available space
-2:  Display a slot
-3: 
-4:  Exit      
+1:  Park at next available space
+2:  Park at given slot
+3:  Leave slot
+4:  Display parking status
+5:  Exit      
         
         
 """     
 System.out.print("Available Space);
 userinput =  String.nextline();
-char[] array = new char[];
+
 
   	switch(parking slots){
 			  case 1: 
-			      System.out.println("parking slot");
-			      for (int index = 0; index < slot.length; index++){
-			          slot[index] + 0;
-			      }
-			      for (int counter = 0; counter < slot.length; i++){
-			          System.out.println
-			      }
-				String  = """
-      
+			     
+			  
      
       
         
