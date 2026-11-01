@@ -46,5 +46,5 @@ public class ParkingSlotFunction{
         System.out.println("slots is display");
     }
   }  
-    
-}
+}    
+
