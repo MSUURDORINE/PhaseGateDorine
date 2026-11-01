@@ -43,7 +43,7 @@ public class ParkingSlotFunction{
     if (slots[index] == 0){
         slots[index] = 0;
     }else{
-        System.out.println()
+        System.out.println("slots is display");
     }
   }  
     
